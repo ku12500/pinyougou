@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pinyougou-common" />
+        <module name="pinyougou-dao" />
+        <module name="pinyougou-manager-web" />
+        <module name="pinyougou-pojo" />
+        <module name="pinyougou-sellergoods-interface" />
+        <module name="pinyougou-sellergoods-service" />
+        <module name="pinyougou-shop-web" />
+        <module name="pinyougoucartinterface" />
+        <module name="pinyougoucartservice" />
+        <module name="pinyougoucartweb" />
+        <module name="pinyougoucommon" />
+        <module name="pinyougoucontentinterface" />
+        <module name="pinyougoucontentservice" />
+        <module name="pinyougoudao" />
+        <module name="pinyougoumanagerweb" />
+        <module name="pinyougouorderinterface" />
+        <module name="pinyougouorderservice" />
+        <module name="pinyougoupageinterface" />
+        <module name="pinyougoupageservice" />
+        <module name="pinyougoupageweb" />
+        <module name="pinyougoupayinterface" />
+        <module name="pinyougoupayservice" />
+        <module name="pinyougoupojo" />
+        <module name="pinyougouportalweb" />
+        <module name="pinyougousearchinterface" />
+        <module name="pinyougousearchservice" />
+        <module name="pinyougousearchweb" />
+        <module name="pinyougousellergoodsinterface" />
+        <module name="pinyougousellergoodsservice" />
+        <module name="pinyougoushopweb" />
+        <module name="pinyougousolrutil" />
+        <module name="pinyougouuserinterface" />
+        <module name="pinyougouuserservice" />
+        <module name="pinyougouuserweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com-pinyougou-content-interface" target="1.7" />
+      <module name="compinyougoucontentinterface" target="1.7" />
+      <module name="itcast_sms_service" target="1.7" />
+      <module name="pinyougou-content-interface" target="1.7" />
+      <module name="pinyougou-content-service" target="1.7" />
+      <module name="pinyougoucontentinterface" target="1.7" />
+      <module name="pinyougoucontentservice" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
